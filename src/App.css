@@ -1,0 +1,14 @@
+h1 {
+   background-color: black;
+   color: white;
+}
+
+.app {
+   outline: 2px dotted royalblue;
+   color: yellow;
+   background-image: url("./saga-kanon.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 100vh;
+   width: 100%;
+}
